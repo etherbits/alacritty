@@ -1,0 +1,13 @@
+window:
+  opacity: .85
+
+font:
+  normal:
+    family: Roboto Mono
+    weight: 700
+
+colors:
+  primary:
+    background: "#08060a"
+    foreground: "#d9e4e4"
+
